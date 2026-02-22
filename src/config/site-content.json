@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "Paul's Blog",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "Paul 的个人博客，记录笔记。",
 		"username": "Paul"
 	},
 	"theme": {
@@ -44,21 +44,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/paulbaron137",
 			"label": "Github",
 			"order": 3
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "paulbaronclcl@gmail.com",
 			"label": "",
 			"order": 1
 		}
