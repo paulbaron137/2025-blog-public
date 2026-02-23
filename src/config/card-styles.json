@@ -4,15 +4,15 @@
 		"height": 212,
 		"order": 3,
 		"offsetX": -208,
-		"offsetY": -298,
+		"offsetY": -288,
 		"enabled": true
 	},
 	"hiCard": {
 		"width": 360,
 		"height": 288,
 		"order": 1,
-		"offsetX": -257,
-		"offsetY": -74,
+		"offsetX": -254,
+		"offsetY": -47,
 		"enabled": true
 	},
 	"clockCard": {
